@@ -8,10 +8,12 @@
 
 I'm a solo Portuguese developer making focused Farming Simulator 25 script mods. Small tools that remove friction from the game — tracking, automation, UI polish — one problem each, done well. PC and Mac, singleplayer and multiplayer where it makes sense.
 
-## Where to find the mods
+## Mods
 
-- Pinned repositories below — each ships as a standalone `FS25_*` release.
-- [ModHub](#) — author page (coming soon).
+- [Horse Advisor](https://github.com/lavrador-modding/FS25_HorseAdvisor) — sell your horses at the right time for maximum profit.
+- [Horse Groomer](https://github.com/lavrador-modding/FS25_HorseGroomer) — pays a stable hand to ride and clean every horse, daily.
+
+Also on [ModHub](#) — author page (coming soon).
 
 ---
 
